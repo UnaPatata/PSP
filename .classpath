@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="UsarHilo"/>
+	<classpathentry kind="src" path="CarreraCaballos"/>
+	<classpathentry kind="src" path="ServicioBancario"/>
+	<classpathentry kind="src" path="ProductorConsumidor"/>
+	<classpathentry kind="src" path="NetworkCards"/>
+	<classpathentry kind="src" path="MiURL"/>
+	<classpathentry kind="src" path="BankServer"/>
+	<classpathentry kind="src" path="UDPEchoServer"/>
+	<classpathentry kind="src" path="SimpleUDPCliente"/>
+	<classpathentry kind="src" path="MulticastTimeServer"/>
+	<classpathentry kind="src" path="MultiCastClient"/>
+	<classpathentry kind="src" path="CestoManzanas"/>
+	<classpathentry kind="src" path="sriServer"/>
+	<classpathentry kind="src" path="MensaServer"/>
+	<classpathentry kind="src" path="MensaServerMulticast"/>
+	<classpathentry kind="src" path="FileServer"/>
+	<classpathentry kind="src" path="ObjectServer"/>
+	<classpathentry kind="src" path="ObjectClient"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
